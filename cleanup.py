@@ -3,7 +3,6 @@ import os
 import shutil
 
 # Torrents download folder cleanup
-
 def delete_downloads_folder_contents():
     """
     Locate the 'Downloads' folder within the same folder as the script and delete all contents
