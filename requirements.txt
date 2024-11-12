@@ -1,0 +1,12 @@
+feedparser
+os
+time
+shutil
+transmissionrpc
+pathlib
+requests
+json
+urllib3
+warnings
+datetime
+logging
